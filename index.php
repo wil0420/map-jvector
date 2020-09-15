@@ -25,8 +25,8 @@ function mapa(){
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,500,700" rel="stylesheet">
     <link rel="stylesheet" href="./src/css/jquery-jvectormap-2.0.5.css">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="<?php echo plugin_dir_url( __FILE__ ) ?>/src/js/lib/jquery-jvectormap-2.0.5.min.js"></script>
-    <link rel="stylesheet" href="<?php echo plugin_dir_url( __FILE__ ) ?>/src/css/main.css">
+    <script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/lib/jquery-jvectormap-2.0.5.min.js"></script>
+    <link rel="stylesheet" href="<?php echo plugin_dir_url( __FILE__ ) ?>src/css/main.css">
 
     <!--- World SVG Path Info file in jVectorMap supported format-->
     <!-- <script src="./src/js/lib/jquery-jvectormap-world-mill-en.js"></script> -->
@@ -36,7 +36,7 @@ function mapa(){
 
     <div id="map" style="width: 450px; height: 450px;"></div>
 
-<script src="<?php echo plugin_dir_url( __FILE__ ) ?>/src/js/main.js"></script>  
+<script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/main.js"></script>  
 </body>
 </html>
 <?php
