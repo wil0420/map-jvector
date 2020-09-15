@@ -2,7 +2,7 @@
 /*
 Plugin Name: Mapa Abaco
 Plugin URI: https://giving.agency/es/
-Description: Mapa interactivo
+Description: Mapa interactivo [map_aba]
 Versión: 1.0
 Author: Givin Agency
 License: GPLv2
