@@ -23,7 +23,7 @@ function mapa(){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,500,700" rel="stylesheet">
-    <link rel="stylesheet" href="./src/css/jquery-jvectormap-2.0.5.css">
+    <link rel="stylesheet" href="<?php echo plugin_dir_url( __FILE__ ) ?>src/css/jquery-jvectormap-2.0.5.css">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/lib/jquery-jvectormap-2.0.5.min.js"></script>
     <link rel="stylesheet" href="<?php echo plugin_dir_url( __FILE__ ) ?>src/css/main.css">
