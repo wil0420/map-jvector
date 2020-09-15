@@ -36,7 +36,7 @@ function mapa(){
     <div id="map" style="width: 450px; height: 450px;"></div>
 
     <script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/lib/jquery-jvectormap-2.0.5.min.js"></script>
-<script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/main.js"></script>  
+<script src="<?php echo plugin_dir_url( __FILE__ ) ?>src/js/main.js?v=1.5"></script>  
 </body>
 </html>
 <?php
