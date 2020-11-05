@@ -53,7 +53,7 @@ $('#map').vectorMap({
 
             });
             var map = $('#map').vectorMap('get', 'mapObject');
-            map.setSelectedRegions(['CO-BOY','CO-VAC','CO-DC','CO-LAG','CO-MAG','CO-ATL','CO-SUC','CO-CHO','CO-ANT','CO-NSA','CO-SAN','CO-RIS','CO-CAQ','CO-TOL','CO-NAR','CO-MET','CO-HUI','CO-BOL','CO-COR', 'CO-QUI']);
+            map.setSelectedRegions(['CO-BOY','CO-VAC','CO-DC','CO-LAG','CO-MAG','CO-ATL','CO-SUC','CO-CHO','CO-ANT','CO-NSA','CO-SAN','CO-RIS','CO-CAQ','CO-TOL','CO-NAR','CO-MET','CO-HUI','CO-BOL','CO-COR','CO-QUI']);
         });
 
         
